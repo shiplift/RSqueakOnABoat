@@ -2,6 +2,11 @@
 
 A Squeak VM written in RPython.
 
+----
+This one has values ans shapes!
+----
+----
+
 ### Download
 
 All-in-One bundle for Linux, Windows and macOS:
